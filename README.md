@@ -1,12 +1,11 @@
-# Conways-Game-Of-Life
-### ICS 53L Course Project (Extra Credit)
+# Conway's Game Of Life
+## ICS 53L Course Project (Extra Credit)
 
-#### Overview of Game:
+### Overview of Game:
   This is a C implementation of Conway's Game of Life, which is celluar automation created by John Conway in 1970.
-
   The game begins with an initial state (2-D orthogonal grid) and infinitely transitions to the next state based on a set of rules. 
 
-  Conway's Game of Life Rules:
+#### Conway's Game of Life Rules:
 
   Each cell is either in the alive or dead state. 
 
@@ -20,7 +19,7 @@
     4. Any dead cell is with 3 ALIVE neighbors will become alive too.
        (Reproduction)
 
-#### What does this program do?
+### What does this program do?
 
 The program creates a random grid and applies the game's rule to that grid. 
 The size of the grid can be changed by changing the pre-defined values "ROWS" and "COLUMNS" at the top of the code file.
