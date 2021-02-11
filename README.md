@@ -1,5 +1,5 @@
 # Conways-Game-Of-Life
-# ICS 53L Course Project (Extra Credit)
+### ICS 53L Course Project (Extra Credit)
 
 Overview of Game:
   This is a C implementation of Conway's Game of Life, which is celluar automation created by John Conway in 1970.
