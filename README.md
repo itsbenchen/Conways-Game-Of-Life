@@ -23,3 +23,4 @@
 
 The program creates a random grid and applies the game's rule to that grid. 
 The size of the grid can be changed by changing the pre-defined values "ROWS" and "COLUMNS" at the top of the code file.
+Alternatively, you can define your own grid and place it into the main() function instead of the initialized, random gameBoard.
