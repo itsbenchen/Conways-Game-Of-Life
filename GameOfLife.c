@@ -6,8 +6,8 @@
 #include <unistd.h>
 
 // pre-defined Rows and Columns (Can be changed)
-#define ROWS 12
-#define COLUMNS 80
+#define ROWS 50
+#define COLUMNS 150
 
 // pre-defined to differentiate between Alive and Dead states
 #define ALIVE 1
